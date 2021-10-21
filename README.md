@@ -15,7 +15,7 @@ En este curso, aprenderá todo sobre el uso de clasificadores lineales, específ
 ## Contenido del curso:
 ![](linear%20classifier.png)
 
-
+![](linear%20classifier2.png)
 
 
 
